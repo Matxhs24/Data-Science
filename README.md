@@ -1,2 +1,2 @@
 # Data-Science
-Portofolio data science
+Project data science ini dibuat pada tahun 2025 sebagai portofolio CV
